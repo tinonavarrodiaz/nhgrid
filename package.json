@@ -1,11 +1,10 @@
 {
-  "name": "nh-grid",
+  "name": "nhgrid",
   "version": "3.0.2",
   "description": "Nhgrid (nh-grid) is a minimalist Sass/CSS library for building responsive web layouts.",
   "style": "ed-grid.scss",
   "main": "ed-grid.scss",
   "author": "Alvaro Felipe <alvaro@ed.team>",
-
   "repository": {
     "type": "git",
     "url": "https://github.com/tinonavarrodiaz/nh-grid"
